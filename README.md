@@ -391,13 +391,11 @@ and keep `.env` in `.gitignore`.
 
 ## 👨‍💻 Author
 
-**Ajay Sandhi**
+**Sandhi Ajay Kumar**
 
 B.Tech — Computer Science & Engineering
 AI & Data Science
 
 ---
 
-## ⭐ Resume Description
 
-> **MeetingMind — AI Meeting Intelligence & RAG Assistant:** Built an AI-powered meeting assistant using Google Gemini to generate transcripts, summaries, decisions, action items, and risks from audio recordings. Implemented FAISS-based RAG with LangChain and a LangGraph agent with tool calling for semantic meeting search and context-aware Q&A.
