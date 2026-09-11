@@ -1,0 +1,30 @@
+{
+    "transcript": "AJ: Good morning everyone. Today we need to discuss the launch of our AI meeting assistant. Raphael: I have completed the backend API, but we still need to test the database integration. Priya: I will prepare the evaluation data set by Thursday. AJ: Good. Let's use this for the first version of our retrieval system. Raphael: I think retrieval accuracy is our biggest risk. We should evaluate precision before deployment. Priya: Agreed. I can create a test set with 20 sample questions. AJ: Great. Raphael: Please finish the API integration by Friday. Priya: Please complete the evaluation data set by Thursday. Raphael: Sure, I'll complete it by Friday. Priya: I'll have the dataset ready by Thursday. AJ: Perfect. Let's meet again on Monday to review the results.",
+    "summary": "The meeting focused on the launch of the AI meeting assistant. Raphael has completed the backend API but needs to test database integration. Priya will prepare an evaluation dataset by Thursday, which will be used for the first version of the retrieval system. Retrieval accuracy was identified as the biggest risk, prompting a decision to evaluate precision before deployment using a test set of 20 sample questions. The team agreed to a follow-up meeting on Monday to review the results.",
+    "decisions": [
+        "The evaluation dataset will be used for the first version of the retrieval system.",
+        "Retrieval accuracy will be evaluated for precision before deployment.",
+        "A test set with 20 sample questions will be created for precision evaluation.",
+        "The team will meet again on Monday to review the results."
+    ],
+    "action_items": [
+        {
+            "task": "Finish the API integration, including database integration testing.",
+            "owner": "Raphael",
+            "deadline": "Friday"
+        },
+        {
+            "task": "Prepare the evaluation dataset.",
+            "owner": "Priya",
+            "deadline": "Thursday"
+        },
+        {
+            "task": "Create a test set with 20 sample questions for precision evaluation.",
+            "owner": "Priya",
+            "deadline": "Thursday"
+        }
+    ],
+    "risks": [
+        "Retrieval accuracy is the biggest risk."
+    ]
+}
